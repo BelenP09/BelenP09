@@ -4,9 +4,9 @@
  
 > Building intelligent systems at the intersection of AI, Data Science, and Cloud Computing
  
-## 🎯 About Me
+## 🎯 Sobre mí
  
-Yo soy española especializada en Business Central. I focus on:
+Yo soy española especializada en Business Central.
  
 - 🤖 
 - 🧠 Estudiando Data Science.
