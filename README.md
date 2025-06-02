@@ -1,27 +1,33 @@
-# Bienvenido !👨‍💻
-👋 Soy Belén
-🎓 Actualmente aprendiendo y formandome en el campo del Análisis de Datos y la IA
-💡 Disfruto conectar datos, diseño y conocimientos del mundo real a través del aprendizaje continuo
-🌍 Abierto a oportunidades remotas y colaboración.
-## 🎯 Sobre mí
- 
-Programadora de Business Central 365.
+# ¡Bienvenido! 👩‍💻
 
+## Sobre mí
 
-## 🛠️ Técnino
-📚 Lo que estoy explorando
-🐍 Python para análisis de datos y automatización
-📊 Estadísticas, Probabilidad y Álgebra Lineal
-🧠 Aprendizaje Automático y Procesamiento de Lenguaje Natural (NLP)
-🧮 SQL, Power BI, Matplotlib, Seaborn
-☁️ AWS (ruta de aprendizaje para Soluciones Arquitectónicas)
-🔧 Control de versiones con Git y GitHub
+Hola, soy **Belén Parrado Serrano**. Actualmente me estoy formando en el campo del **Análisis de Datos** y la **Inteligencia Artificial**. Me apasiona conectar datos, diseño y conocimientos del mundo real a través del aprendizaje continuo.
+
+- 👩‍💻 Programadora de **Business Central 365**
+- 🌍 Abierta a oportunidades remotas y colaboraciones
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Python** para análisis de datos y automatización
+- **Estadística**, **Probabilidad** y **Álgebra Lineal**
+- **Machine Learning** y **Procesamiento de Lenguaje Natural (NLP)**
+- **SQL**, **Power BI**, **Matplotlib**, **Seaborn**
+- **AWS** (en ruta de aprendizaje para Arquitectura de Soluciones)
+- **Control de versiones** con Git y GitHub
+
+---
 
 ## 🔍 Intereses
-📈 Narración de historias basada en datos
-🛠️ Proyectos del mundo real y solución de problemas
-🤝 Código abierto y colaboración en equipo
-🛠️ Herramientas y Tecnologías
- 
-## 🌐 Conectemos!
-www.linkedin.com/in/belén-parrado-serrano-447028a7
+
+- 📈 Narrativa basada en datos
+- 🛠️ Proyectos del mundo real y resolución de problemas
+- 🤝 Código abierto y trabajo en equipo
+
+---
+
+## 🌐 Conectemos
+
+[LinkedIn: belén-parrado-serrano-447028a7](https://www.linkedin.com/in/bel%C3%A9n-parrado-serrano-447028a7)
